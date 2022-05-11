@@ -1,5 +1,5 @@
 - Hi, I’m @Dan77111
-- I'm currently a CS student (hopefully) less than 6 months away from graduation
+- I'm currently a CS student and should be graduating in July
 - I’m interested in Web Development, especially Javascript-framework-based stacks
-- I’m currently learning Vue, React, Redux, NodeJS, Express and a touch of modern CSS
+- I’m currently learning React, Redux, NodeJS, Express and a touch of modern CSS
 - To reach me: daniele.dalla.rosa77@gmail.com
